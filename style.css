@@ -1,0 +1,49 @@
+body{
+    text-align: center;
+    font-family: 'Special Elite', cursive;
+    background: linear-gradient(to bottom right, chartreuse,royalblue );
+}
+h1{
+    font-size:50px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color:darkgreen;
+}
+#h3_h4_div{
+    border:2px dashed black;
+    width:500;
+    height:100;
+}
+
+.header_div{
+    font-family: 'Roboto Mono', monospace;
+    color:darkblue;
+    letter-spacing:2px;
+    font-size:20px;
+    font-weight:bold;
+    background:darkgoldenrod;
+}
+h1{
+    background:darkgoldenrod;
+}
+.main_div button{
+    font-family: 'Roboto Mono', monospace;
+    margin-top:30px;
+    width:130px;
+    font-weight:bolder;
+    letter-spacing:3px;
+}
+.copy_right_footer{
+    position:fixed;
+    color:darkblue;
+    bottom:-2;
+    width:100%;
+    font-size:18px;
+    background-color:cyan;
+    text-align:center;
+    text-shadow: 5px 5px 5px rgb(34, 29, 29);
+}
+hr {
+    height: 2px;
+    background-color:darkslategray;
+    border:thick;
+}
